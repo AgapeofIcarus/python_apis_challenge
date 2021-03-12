@@ -2,7 +2,7 @@
  UNCC Project for APIs
 ![Python APIs](https://github.com/AgapeofIcarus/python_apis_challenge/blob/main/equatorsign.png?raw=true)
 
-In this two-fold assignment, I used APIs to analyze weather patterns and data. The requirements were as follows:
+In this two-fold project, I used APIs to analyze weather patterns and data. The requirements were as follows:
 
 Create scatterplots to display relationships between 
 * Temperature (F) vs. Latitude
